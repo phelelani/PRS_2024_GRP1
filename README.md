@@ -1,5 +1,6 @@
 # PRS_2024_GRP1
-Group Project for the 2024 Uganda PRS Workshop
+Group Project for the 2024 Uganda PRS Workshop.
+Based on this: [Elastic Net](https://daviddalpiaz.github.io/r4sl/elastic-net.html#rmarkdown-13)
 
 ## 1. LOAD THE DATA INTO R 
 ```
