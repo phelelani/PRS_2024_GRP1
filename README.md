@@ -103,6 +103,7 @@ hit_elnet = train(
 
 hit_elnet
 ```
+
 ### Output:
 ```
 > hit_elnet
@@ -149,7 +150,14 @@ get_best_result = function(caret_fit) {
 }
 
 get_best_result(hit_elnet_int)
+```
 
+### Outout:
+```
+> get_best_result(hit_elnet_int)
+alpha  lambda     RMSE   Rsquared      MAE    RMSESD RsquaredSD      MAESD
+1   0.5 0.19682 1.765425 0.01257708 1.336995 0.1274569 0.01379756 0.04367705
+> 
 ```
 
 ## 5. TEST
